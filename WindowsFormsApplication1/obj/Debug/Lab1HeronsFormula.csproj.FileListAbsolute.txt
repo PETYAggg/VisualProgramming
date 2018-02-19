@@ -1,0 +1,9 @@
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab1HeronsFormula.exe.config
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab1HeronsFormula.exe
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab1HeronsFormula.pdb
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1HeronsFormula.csprojResolveAssemblyReference.cache
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1HeronsFormula.Properties.Resources.resources
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1HeronsFormula.csproj.GenerateResource.Cache
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1HeronsFormula.exe
+D:\TRY\visual_programming\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab1HeronsFormula.pdb
